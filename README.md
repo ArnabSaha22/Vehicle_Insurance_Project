@@ -22,3 +22,6 @@ Annual_Premium: The amount customer needs to pay as premium in the year
 Policy_Sales_Channel: Anonymized Code for the channel of outreaching to the customer ie. Different Agents, Over Mail, Over Phone, In Person, etc.
 Vintage: Number of Days, Customer has been associated with the company
 Response: [1 : Customer is interested, 0 : Customer is not interested]
+
+Access key - AKIASFBYP4HWXNFGWPNH
+Secret Access key - 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
